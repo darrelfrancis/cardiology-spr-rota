@@ -2,7 +2,7 @@
             Day ward registrars
 yyyy-mm-dd  Cx Ma Ha
 
-2020-02-26  Bx Am Hj
+2020-02-26  Bx dk Hj
 2020-02-26  Bx Am Hj
 2020-02-26  Bx Cb Rs
 2020-02-26  Bx Am qq
